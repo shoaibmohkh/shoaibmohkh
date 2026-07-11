@@ -37,19 +37,20 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
 </div>
 
-### Backend and Data
-
 <div align="center">
+  <h3>Backend and Data</h3>
   <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="ASP.NET Core icon" /></a>
-  <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF%20Core-7C3AED?style=for-the-badge" alt="EF Core badge" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL icon" /></a>
-  <a href="https://www.npgsql.org/"><img src="https://img.shields.io/badge/Npgsql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Npgsql badge" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase icon" /></a>
 </div>
 
-### Mobile and Frontend
+<div align="center">
+  <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF%20Core-7C3AED?style=for-the-badge" alt="EF Core badge" /></a>
+  <a href="https://www.npgsql.org/"><img src="https://img.shields.io/badge/Npgsql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Npgsql badge" /></a>
+</div>
 
 <div align="center">
+  <h3>Mobile and Frontend</h3>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter icon" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase icon" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
@@ -58,12 +59,14 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript icon" /></a>
 </div>
 
-### Systems and Tooling
-
 <div align="center">
+  <h3>Systems and Tooling</h3>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux icon" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git icon" /></a>
   <a href="https://github.com/shoaibmohkh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub icon" /></a>
+</div>
+
+<div align="center">
   <a href="https://www.gnu.org/software/gdb/"><img src="https://img.shields.io/badge/GDB-7C3AED?style=for-the-badge" alt="GDB badge" /></a>
   <a href="https://valgrind.org/"><img src="https://img.shields.io/badge/Valgrind-1E40AF?style=for-the-badge" alt="Valgrind badge" /></a>
 </div>
@@ -149,16 +152,6 @@ UNIX shell built in `C` with parsing, processes, pipes, redirections, here-docs,
 - Completed 23 system-level C/C++ projects
 - Led and coordinated 6 development teams
 - Built strong habits in debugging, systems design, and problem solving
-
-### 42 Amman | Peer Mentor and Piscine Assistant
-
-- Supported participants during Piscine #8
-- Evaluated 11 team-based projects
-- Proctored 4 coding exams
-
-### IEEE Computer Society | Events and Activities Organizer
-
-- Helped organize technical events and student activities
 
 ---
 
