@@ -157,19 +157,6 @@ UNIX shell built in `C` with parsing, processes, pipes, redirections, here-docs,
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shoaibmohkh&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&ring=7C3AED" alt="GitHub stats for shoaibmohkh" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shoaibmohkh&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=C9D1D9" alt="Top languages for shoaibmohkh" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmohkh&bg_color=00000000&color=C9D1D9&line=A855F7&point=8B5CF6&area=true&area_color=312E81&hide_border=true&title_color=A855F7" alt="GitHub contribution graph for shoaibmohkh" />
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
