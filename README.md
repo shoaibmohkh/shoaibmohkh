@@ -6,6 +6,7 @@
   <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman%2C%20Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
   <br />
   <a href="mailto:Shoaib_Al-kawaldeh@outlook.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shoaib Al-Kawaldeh" /></a>
+  <a href="https://www.linkedin.com/in/shoaib-al-kawaldeh-%D8%B4%D9%8F%D8%B9%D9%8A%D8%A8-%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D9%84%D8%AF%D9%87-203b62260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Shoaib Al-Kawaldeh" /></a>
   <a href="https://github.com/shoaibmohkh"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile for shoaibmohkh" /></a>
 </div>
 
@@ -168,5 +169,6 @@ UNIX shell built in `C` with parsing, processes, pipes, redirections, here-docs,
 
 <div align="center">
   <a href="mailto:Shoaib_Al-kawaldeh@outlook.com"><img src="https://img.shields.io/badge/Email-Shoaib_Al--kawaldeh%40outlook.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shoaib Al-Kawaldeh" /></a>
+  <a href="https://www.linkedin.com/in/shoaib-al-kawaldeh-%D8%B4%D9%8F%D8%B9%D9%8A%D8%A8-%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D9%84%D8%AF%D9%87-203b62260/"><img src="https://img.shields.io/badge/LinkedIn-Shoaib%20Al--Kawaldeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Shoaib Al-Kawaldeh" /></a>
   <a href="https://github.com/shoaibmohkh"><img src="https://img.shields.io/badge/GitHub-shoaibmohkh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile for shoaibmohkh" /></a>
 </div>
