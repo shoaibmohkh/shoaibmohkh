@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:1E3A8A&height=220&section=header&text=Shoaib%20Al-Kawaldeh&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=18" alt="Header banner for Shoaib Al-Kawaldeh" />
   <br />
   <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="./assets/university-of-jordan-logo.png" height="44" alt="University of Jordan logo" /></a>
-  <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/42%20Amman-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
+  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-1D4ED8?style=for-the-badge" alt="University of Jordan badge" /></a>
+  <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/Amman-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
   <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman%2C%20Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
   <br />
   <a href="mailto:Shoaib_Al-kawaldeh@outlook.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shoaib Al-Kawaldeh" /></a>
@@ -20,12 +21,11 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=1100&lines=C%23+Backend+Development;ASP.NET+Core+APIs+%26+Architecture;Entity+Framework+Core+%26+ORMs;PostgreSQL+Database+Work;C+%26+C%2B%2B+Systems+Programming;Web+Server+Internals+%26+Linux+Tooling;Flutter+%26+Firebase+Application+Development;Docker+Workflows+%26+Containerized+Development" alt="Animated tech stack summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3200&pause=1400&color=A855F7&center=true&vCenter=true&width=1300&lines=C%23+Backend+Development;ASP.NET+Core+APIs+%26+Architecture;Entity+Framework+Core+%26+ORMs;PostgreSQL+Database+Work;C+%26+C%2B%2B+Systems+Programming;Web+Server+Internals+%26+Linux+Tooling;Flutter+%26+Firebase+Application+Development;Docker+Workflows+%26+Containerized+Development" alt="Animated tech stack summary" />
 </div>
 
-### Languages
-
 <div align="center">
+  <h3>Languages</h3>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C sharp icon" /></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" alt="Dotnet logo" /></a>
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C icon" /></a>
