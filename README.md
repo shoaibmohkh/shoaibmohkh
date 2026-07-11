@@ -1,15 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:1E3A8A&height=220&section=header&text=Shoaib%20Al-Kawaldeh&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=18" alt="Header banner for Shoaib Al-Kawaldeh" />
   <br />
-  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="University of Jordan badge" /></a>
-  <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/42%20Amman-C%20%26%20C%2B%2B%20Peer%20Learning-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
-  <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman-Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
+  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="University of Jordan badge" /></a>
+  <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/42%20Amman-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
+  <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman%2C%20Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
   <br />
-  <a href="mailto:Shoaib_Al-kawaldeh@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shoaib Al-Kawaldeh" /></a>
-  <a href="https://github.com/shoaibmohkh"><img src="https://img.shields.io/badge/GitHub-shoaibmohkh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile for shoaibmohkh" /></a>
-  <a href="https://github.com/shoaibmohkh?tab=followers"><img src="https://img.shields.io/github/followers/shoaibmohkh?style=for-the-badge&label=Followers&labelColor=111827&color=8B5CF6&logo=github" alt="GitHub followers badge" /></a>
-  <a href="https://github.com/shoaibmohkh?tab=repositories"><img src="https://img.shields.io/github/stars/shoaibmohkh?style=for-the-badge&label=Total%20Stars&labelColor=111827&color=A855F7&logo=github" alt="GitHub total stars badge" /></a>
-  <a href="https://github.com/shoaibmohkh"><img src="https://komarev.com/ghpvc/?username=shoaibmohkh&style=for-the-badge&color=6366F1&label=Profile%20Views" alt="Profile views badge" /></a>
+  <a href="mailto:Shoaib_Al-kawaldeh@outlook.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shoaib Al-Kawaldeh" /></a>
+  <a href="https://github.com/shoaibmohkh"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile for shoaibmohkh" /></a>
 </div>
 
 ---
@@ -17,22 +14,6 @@
 ## About
 
 Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET Core`, `Entity Framework Core`, and `PostgreSQL`, with solid hands-on work in `C`, `C++`, Linux, networking fundamentals, and debugging. I also built a non-blocking HTTP server in C++98, so I understand how web servers work under the hood, not just how to consume them.
-
----
-
-## Core Strengths
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-Strong%20Backend-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="Strong C sharp backend badge" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-APIs%20%26%20Architecture-1E3A8A?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core badge" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-ORM-6D28D9?style=for-the-badge&logo=nuget&logoColor=white" alt="Entity Framework Core badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
-  <br />
-  <img src="https://img.shields.io/badge/C%20%26%20C%2B%2B-Systems%20Programming-312E81?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Systems programming badge" />
-  <img src="https://img.shields.io/badge/Web%20Server-HTTP%20Internals-3730A3?style=for-the-badge&logo=nginx&logoColor=white" alt="Web server internals badge" />
-  <img src="https://img.shields.io/badge/Linux-Debugging%20%26%20Tooling-4338CA?style=for-the-badge&logo=linux&logoColor=white" alt="Linux debugging badge" />
-  <img src="https://img.shields.io/badge/Flutter%20%26%20Firebase-Built%20in%20Private%20Work-1D4ED8?style=for-the-badge&logo=firebase&logoColor=white" alt="Flutter and Firebase badge" />
-</div>
 
 ---
 
