@@ -75,17 +75,23 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 
 ## Engineering Expertise
 
-| Area | Signal | Why |
-|---|---|---|
-| C# Backend Development | <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=for-the-badge&logo=battery&logoColor=white" alt="Full charge signal" /> | Built and worked on ASP.NET Core backend code with controllers, services, repositories, and production-style API structure. |
-| C and C++ Systems Programming | <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=for-the-badge&logo=battery&logoColor=white" alt="Full charge signal" /> | Comfortable with processes, signals, pipes, file descriptors, memory handling, and low-level debugging. |
-| Entity Framework Core, ORMs, and PostgreSQL | <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=for-the-badge&logo=battery&logoColor=white" alt="Full charge signal" /> | Worked with `AppDbContext`, repository patterns, pooled DbContexts, EF Core migrations, `Npgsql`, relational schema work, and Postgres-specific backend behavior. |
-| Dockerization | <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=for-the-badge&logo=battery&logoColor=white" alt="High charge signal" /> | Worked with Docker-based local development, backend containers, PostgreSQL containers, and compose-driven workflows in the project setup. |
-| Linux Administration | <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=for-the-badge&logo=battery&logoColor=white" alt="Full charge signal" /> | Comfortable working in Linux environments with system tooling, terminal workflows, service setup, debugging, and day-to-day development operations. |
-| Networking Fundamentals | <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=for-the-badge&logo=battery&logoColor=white" alt="Full charge signal" /> | Studied and applied TCP/IP, subnetting, HTTP behavior, request lifecycles, and backend communication concepts in systems and backend work. |
-| Multithreading and Concurrency | <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=for-the-badge&logo=battery&logoColor=white" alt="High charge signal" /> | Understands concurrency concepts, parallel execution flow, and thread-aware problem solving as part of systems-level learning and practice. |
-| Web Server Fundamentals | <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=for-the-badge&logo=battery&logoColor=white" alt="Full charge signal" /> | Built a non-blocking C++ HTTP server using `poll()`, routing, CGI, uploads, and manual request/response handling. |
-| Flutter and Firebase | <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=for-the-badge&logo=battery&logoColor=white" alt="High charge signal" /> | Built a delivery app with real-time flows, authentication, Firestore, maps, and 15+ screens in private work. |
+### Backend
+
+- `C# Backend Development` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
+- `Entity Framework Core, ORMs, and PostgreSQL` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
+- `Dockerization` <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=flat-square&logo=battery&logoColor=white" alt="High charge signal" />
+
+### Systems
+
+- `C and C++ Systems Programming` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
+- `Web Server Fundamentals` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
+- `Linux Administration` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
+- `Networking Fundamentals` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
+- `Multithreading and Concurrency` <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=flat-square&logo=battery&logoColor=white" alt="High charge signal" />
+
+### Mobile
+
+- `Flutter and Firebase` <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=flat-square&logo=battery&logoColor=white" alt="High charge signal" />
 
 ---
 
