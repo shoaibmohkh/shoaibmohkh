@@ -27,7 +27,6 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 <div align="center">
   <h3>Languages</h3>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C sharp icon" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Dotnet icon" /></a>
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C icon" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C plus plus icon" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon" /></a>
@@ -52,8 +51,6 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 <div align="center">
   <h3>Mobile and Frontend</h3>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter icon" /></a>
-  <a href="https://firebase.google.com/"><img src="./assets/firebase-logo.png" height="48" alt="Firebase logo" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript icon" /></a>
@@ -65,6 +62,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker logo" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git icon" /></a>
   <a href="https://github.com/shoaibmohkh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub icon" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira logo" /></a>
 </div>
 
