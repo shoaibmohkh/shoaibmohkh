@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:1E3A8A&height=220&section=header&text=Shoaib%20Al-Kawaldeh&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=18" alt="Header banner for Shoaib Al-Kawaldeh" />
   <br />
-  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="University of Jordan badge" /></a>
+  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://studentaffairs.ju.edu.jo/ForFlashUsing/logo%20%D9%84%D9%88%D8%AC%D9%88%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.png" height="44" alt="University of Jordan logo" /></a>
   <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/42%20Amman-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
   <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman%2C%20Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
   <br />
