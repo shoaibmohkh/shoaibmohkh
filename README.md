@@ -40,7 +40,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
   <h3>Backend and Data</h3>
   <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="ASP.NET Core icon" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL icon" /></a>
-  <a href="https://firebase.google.com/"><img src="./assets/firebase-logo.svg" height="48" alt="Firebase logo" /></a>
+  <a href="https://firebase.google.com/"><img src="./assets/firebase-logo.png" height="48" alt="Firebase logo" /></a>
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 <div align="center">
   <h3>Mobile and Frontend</h3>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter icon" /></a>
-  <a href="https://firebase.google.com/"><img src="./assets/firebase-logo.svg" height="48" alt="Firebase logo" /></a>
+  <a href="https://firebase.google.com/"><img src="./assets/firebase-logo.png" height="48" alt="Firebase logo" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
