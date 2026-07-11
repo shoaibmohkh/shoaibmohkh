@@ -75,16 +75,33 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 
 ## Engineering Expertise
 
+### Backend
+
 | Area | Strength | Why |
 |---|---|---|
 | C# Backend Development | Strong | ASP.NET Core APIs, controllers, services, and repository-based backend work. |
-| C and C++ Systems Programming | Strong | Processes, signals, pipes, memory handling, and low-level debugging. |
 | Entity Framework Core, ORMs, and PostgreSQL | Strong | `AppDbContext`, migrations, `Npgsql`, and relational database work. |
 | Dockerization | Proficient | Docker-based local development and compose-driven backend workflows. |
-| Linux Administration | Strong | Linux tooling, terminal workflows, and debugging in day-to-day development. |
-| Networking Fundamentals | Strong | TCP/IP, subnetting, HTTP behavior, and request lifecycle understanding. |
-| Multithreading and Concurrency | Proficient | Concurrency concepts, execution flow, and thread-aware problem solving. |
+
+### Systems
+
+| Area | Strength | Why |
+|---|---|---|
+| C and C++ Systems Programming | Strong | Processes, signals, pipes, memory handling, and low-level debugging. |
 | Web Server Fundamentals | Strong | Built a non-blocking HTTP server using `poll()` and manual request handling. |
+| Linux Administration | Strong | Linux tooling, terminal workflows, and debugging in day-to-day development. |
+| Multithreading and Concurrency | Proficient | Concurrency concepts, execution flow, and thread-aware problem solving. |
+
+### Networking
+
+| Area | Strength | Why |
+|---|---|---|
+| Networking Fundamentals | Strong | TCP/IP, subnetting, HTTP behavior, and request lifecycle understanding. |
+
+### Mobile
+
+| Area | Strength | Why |
+|---|---|---|
 | Flutter and Firebase | Proficient | Built a private delivery app with authentication, Firestore, maps, and 15+ screens. |
 
 ---
