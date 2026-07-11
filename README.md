@@ -20,7 +20,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=980&lines=C%23+Backend+Development;ASP.NET+Core+APIs+%26+Architecture;Entity+Framework+Core+%26+ORMs;PostgreSQL+Database+Work;C+%26+C%2B%2B+Systems+Programming;Web+Server+Internals+%26+Linux+Tooling;Flutter+%26+Firebase+Application+Development" alt="Animated tech stack summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=1100&lines=C%23+Backend+Development;ASP.NET+Core+APIs+%26+Architecture;Entity+Framework+Core+%26+ORMs;PostgreSQL+Database+Work;C+%26+C%2B%2B+Systems+Programming;Web+Server+Internals+%26+Linux+Tooling;Flutter+%26+Firebase+Application+Development;Docker+Workflows+%26+Containerized+Development" alt="Animated tech stack summary" />
 </div>
 
 ### Languages
@@ -62,8 +62,10 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 <div align="center">
   <h3>Systems and Tooling</h3>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux icon" /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker logo" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git icon" /></a>
   <a href="https://github.com/shoaibmohkh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub icon" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira logo" /></a>
 </div>
 
 <div align="center">
