@@ -1,12 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:1E3A8A&height=220&section=header&text=Shoaib%20Al-Kawaldeh&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=18" alt="Header banner for Shoaib Al-Kawaldeh" />
   <br />
-  <img src="https://img.shields.io/badge/University%20of%20Jordan-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="University of Jordan badge" />
-  <img src="https://img.shields.io/badge/42%20Amman-C%20%26%20C%2B%2B%20Peer%20Learning-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" />
-  <img src="https://img.shields.io/badge/Amman-Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" />
+  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="University of Jordan badge" /></a>
+  <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/42%20Amman-C%20%26%20C%2B%2B%20Peer%20Learning-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
+  <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman-Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
   <br />
   <a href="mailto:Shoaib_Al-kawaldeh@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shoaib Al-Kawaldeh" /></a>
   <a href="https://github.com/shoaibmohkh"><img src="https://img.shields.io/badge/GitHub-shoaibmohkh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile for shoaibmohkh" /></a>
+  <a href="https://github.com/shoaibmohkh?tab=followers"><img src="https://img.shields.io/github/followers/shoaibmohkh?style=for-the-badge&label=Followers&labelColor=111827&color=8B5CF6&logo=github" alt="GitHub followers badge" /></a>
+  <a href="https://github.com/shoaibmohkh?tab=repositories"><img src="https://img.shields.io/github/stars/shoaibmohkh?style=for-the-badge&label=Total%20Stars&labelColor=111827&color=A855F7&logo=github" alt="GitHub total stars badge" /></a>
+  <a href="https://github.com/shoaibmohkh"><img src="https://komarev.com/ghpvc/?username=shoaibmohkh&style=for-the-badge&color=6366F1&label=Profile%20Views" alt="Profile views badge" /></a>
 </div>
 
 ---
