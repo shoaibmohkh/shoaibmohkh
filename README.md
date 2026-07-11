@@ -75,17 +75,18 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 
 ## Engineering Expertise
 
-| Area | Strength | Why |
+| Area | Signal | Why |
 |---|---|---|
-| C# Backend Development | Strong | Built and worked on ASP.NET Core backend code with controllers, services, repositories, and production-style API structure. |
-| Entity Framework Core and ORMs | Strong | Worked with `AppDbContext`, repository patterns, pooled DbContexts, and EF Core migrations. |
-| PostgreSQL | Strong | Used PostgreSQL with `Npgsql`, relational migrations, indexes, and Postgres-specific behavior in backend work. |
-| Linux Administration | Strong | Comfortable working in Linux environments with system tooling, terminal workflows, service setup, debugging, and day-to-day development operations. |
-| Networking Fundamentals | Strong | Studied and applied TCP/IP, subnetting, HTTP behavior, request lifecycles, and backend communication concepts in systems and backend work. |
-| Multithreading and Concurrency | Proficient | Understands concurrency concepts, parallel execution flow, and thread-aware problem solving as part of systems-level learning and practice. |
-| Web Server Fundamentals | Strong | Built a non-blocking C++ HTTP server using `poll()`, routing, CGI, uploads, and manual request/response handling. |
-| C and C++ Systems Programming | Strong | Comfortable with processes, signals, pipes, file descriptors, memory handling, and low-level debugging. |
-| Flutter and Firebase | Proficient | Built a delivery app with real-time flows, authentication, Firestore, maps, and 15+ screens in private work. |
+| C# Backend Development | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Built and worked on ASP.NET Core backend code with controllers, services, repositories, and production-style API structure. |
+| C and C++ Systems Programming | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Comfortable with processes, signals, pipes, file descriptors, memory handling, and low-level debugging. |
+| Entity Framework Core and ORMs | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Worked with `AppDbContext`, repository patterns, pooled DbContexts, and EF Core migrations. |
+| PostgreSQL | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Used PostgreSQL with `Npgsql`, relational migrations, indexes, and Postgres-specific behavior in backend work. |
+| Dockerization | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=60A5FA&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B" alt="Strong signal" /> | Worked with Docker-based local development, backend containers, PostgreSQL containers, and compose-driven workflows in the project setup. |
+| Linux Administration | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Comfortable working in Linux environments with system tooling, terminal workflows, service setup, debugging, and day-to-day development operations. |
+| Networking Fundamentals | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Studied and applied TCP/IP, subnetting, HTTP behavior, request lifecycles, and backend communication concepts in systems and backend work. |
+| Multithreading and Concurrency | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=60A5FA&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B" alt="Strong signal" /> | Understands concurrency concepts, parallel execution flow, and thread-aware problem solving as part of systems-level learning and practice. |
+| Web Server Fundamentals | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=A855F7&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F" alt="High strength signal" /> | Built a non-blocking C++ HTTP server using `poll()`, routing, CGI, uploads, and manual request/response handling. |
+| Flutter and Firebase | <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=9999&color=60A5FA&center=true&vCenter=true&width=110&height=22&lines=%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B" alt="Strong signal" /> | Built a delivery app with real-time flows, authentication, Firestore, maps, and 15+ screens in private work. |
 
 ---
 
