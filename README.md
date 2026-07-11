@@ -77,21 +77,21 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 
 ### Backend
 
-- `C# Backend Development` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
-- `Entity Framework Core, ORMs, and PostgreSQL` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
-- `Dockerization` <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=flat-square&logo=battery&logoColor=white" alt="High charge signal" />
+- `C# Backend Development` `█████`
+- `Entity Framework Core, ORMs, and PostgreSQL` `█████`
+- `Dockerization` `████▁`
 
 ### Systems
 
-- `C and C++ Systems Programming` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
-- `Web Server Fundamentals` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
-- `Linux Administration` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
-- `Networking Fundamentals` <img src="https://img.shields.io/badge/Charge-100%25-A855F7?style=flat-square&logo=battery&logoColor=white" alt="Full charge signal" />
-- `Multithreading and Concurrency` <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=flat-square&logo=battery&logoColor=white" alt="High charge signal" />
+- `C and C++ Systems Programming` `█████`
+- `Web Server Fundamentals` `█████`
+- `Linux Administration` `█████`
+- `Networking Fundamentals` `█████`
+- `Multithreading and Concurrency` `████▁`
 
 ### Mobile
 
-- `Flutter and Firebase` <img src="https://img.shields.io/badge/Charge-85%25-60A5FA?style=flat-square&logo=battery&logoColor=white" alt="High charge signal" />
+- `Flutter and Firebase` `████▁`
 
 ---
 
