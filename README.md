@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:1E3A8A&height=220&section=header&text=Shoaib%20Al-Kawaldeh&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=18" alt="Header banner for Shoaib Al-Kawaldeh" />
+  <img src="./assets/profile-header.png" alt="Profile header banner for Shoaib Al-Kawaldeh" />
   <br />
   <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-1D4ED8?style=for-the-badge" alt="University of Jordan badge" /></a>
   <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/Amman-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
