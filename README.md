@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:1E3A8A&height=220&section=header&text=Shoaib%20Al-Kawaldeh&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=18" alt="Header banner for Shoaib Al-Kawaldeh" />
   <br />
-  <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="./assets/university-of-jordan-logo.png" height="44" alt="University of Jordan logo" /></a>
   <a href="https://www.ju.edu.jo/Pages/Home.aspx"><img src="https://img.shields.io/badge/University%20of%20Jordan-1D4ED8?style=for-the-badge" alt="University of Jordan badge" /></a>
   <a href="https://www.42amman.com/"><img src="https://img.shields.io/badge/Amman-1D4ED8?style=for-the-badge&logo=42&logoColor=white" alt="42 Amman badge" /></a>
   <a href="https://maps.google.com/?q=Amman,Jordan"><img src="https://img.shields.io/badge/Amman%2C%20Jordan-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" /></a>
@@ -31,7 +30,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C icon" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C plus plus icon" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon" /></a>
-  <a href="https://dart.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="48" alt="Dart logo" /></a>
+  <a href="https://dart.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="48" alt="Dart logo" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
@@ -41,7 +40,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
   <h3>Backend and Data</h3>
   <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="ASP.NET Core icon" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL icon" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="48" alt="Firebase logo" /></a>
+  <a href="https://firebase.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Firebase_logo.png" height="48" alt="Firebase logo" /></a>
 </div>
 
 <div align="center">
@@ -52,7 +51,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 <div align="center">
   <h3>Mobile and Frontend</h3>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter icon" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="48" alt="Firebase logo" /></a>
+  <a href="https://firebase.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Firebase_logo.png" height="48" alt="Firebase logo" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
