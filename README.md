@@ -80,6 +80,9 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 | C# Backend Development | Strong | Built and worked on ASP.NET Core backend code with controllers, services, repositories, and production-style API structure. |
 | Entity Framework Core and ORMs | Strong | Worked with `AppDbContext`, repository patterns, pooled DbContexts, and EF Core migrations. |
 | PostgreSQL | Strong | Used PostgreSQL with `Npgsql`, relational migrations, indexes, and Postgres-specific behavior in backend work. |
+| Linux Administration | Strong | Comfortable working in Linux environments with system tooling, terminal workflows, service setup, debugging, and day-to-day development operations. |
+| Networking Fundamentals | Strong | Studied and applied TCP/IP, subnetting, HTTP behavior, request lifecycles, and backend communication concepts in systems and backend work. |
+| Multithreading and Concurrency | Proficient | Understands concurrency concepts, parallel execution flow, and thread-aware problem solving as part of systems-level learning and practice. |
 | Web Server Fundamentals | Strong | Built a non-blocking C++ HTTP server using `poll()`, routing, CGI, uploads, and manual request/response handling. |
 | C and C++ Systems Programming | Strong | Comfortable with processes, signals, pipes, file descriptors, memory handling, and low-level debugging. |
 | Flutter and Firebase | Proficient | Built a delivery app with real-time flows, authentication, Firestore, maps, and 15+ screens in private work. |
