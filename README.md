@@ -38,34 +38,57 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 
 ## Tech Stack
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+PostgreSQL;C+%7C+C%2B%2B+%7C+Linux+%7C+Web+Server+Internals;Flutter+%7C+Firebase+%7C+Product+Engineering" alt="Animated tech stack summary" />
+</div>
+
 ### Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,python,dart,js,html,css&theme=dark" alt="Languages and runtime icons including C sharp, dotnet, C, C plus plus, Python, Dart, JavaScript, HTML, and CSS" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C sharp icon" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Dotnet icon" /></a>
+  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C icon" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C plus plus icon" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon" /></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
 </div>
 
 ### Backend and Data
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,firebase&theme=dark" alt="Backend and database icons including dotnet, PostgreSQL, and Firebase" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-ORM%20Work-6D28D9?style=flat-square&logo=nuget&logoColor=white" alt="Entity Framework Core ORM badge" />
-  <img src="https://img.shields.io/badge/Npgsql-Postgres%20Driver-312E81?style=flat-square&logo=postgresql&logoColor=white" alt="Npgsql badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-ASP.NET%20Core-1E40AF?style=flat-square&logo=dotnet&logoColor=white" alt="REST APIs badge" />
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="ASP.NET Core icon" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL icon" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase icon" /></a>
+</div>
+
+<div align="center">
+  <sub>Entity Framework Core, Npgsql, REST APIs</sub>
 </div>
 
 ### Mobile and Frontend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,html,css,js&theme=dark" alt="Mobile and frontend icons including Flutter, Firebase, Figma, HTML, CSS, and JavaScript" />
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter icon" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase icon" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript icon" /></a>
 </div>
 
 ### Systems and Tooling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="Systems and tooling icons including Linux, Git, and GitHub" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-3730A3?style=flat-square&logo=internetexplorer&logoColor=white" alt="TCP/IP badge" />
-  <img src="https://img.shields.io/badge/GDB-Debugging-5B21B6?style=flat-square&logo=gnu&logoColor=white" alt="GDB badge" />
-  <img src="https://img.shields.io/badge/Valgrind-Memory%20Analysis-1E3A8A?style=flat-square&logo=datadog&logoColor=white" alt="Valgrind badge" />
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux icon" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git icon" /></a>
+  <a href="https://github.com/shoaibmohkh"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub icon" /></a>
+</div>
+
+<div align="center">
+  <sub>TCP/IP, GDB, Valgrind</sub>
 </div>
 
 ---
