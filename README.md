@@ -20,18 +20,18 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+PostgreSQL;C+%7C+C%2B%2B+%7C+Linux+%7C+Web+Server+Internals;Flutter+%7C+Firebase+%7C+Product+Engineering" alt="Animated tech stack summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=980&lines=C%23+Backend+Development;ASP.NET+Core+APIs+%26+Architecture;Entity+Framework+Core+%26+ORMs;PostgreSQL+Database+Work;C+%26+C%2B%2B+Systems+Programming;Web+Server+Internals+%26+Linux+Tooling;Flutter+%26+Firebase+Application+Development" alt="Animated tech stack summary" />
 </div>
 
 ### Languages
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C sharp icon" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Dotnet icon" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" alt="Dotnet logo" /></a>
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C icon" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C plus plus icon" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python icon" /></a>
-  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart icon" /></a>
+  <a href="https://dart.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48" alt="Dart logo" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
@@ -39,9 +39,9 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 
 <div align="center">
   <h3>Backend and Data</h3>
-  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="ASP.NET Core icon" /></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" alt="ASP.NET Core logo" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL icon" /></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase icon" /></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="48" alt="Firebase logo" /></a>
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ Software Engineer focused on backend and systems work. Strong in `C#`, `ASP.NET 
 <div align="center">
   <h3>Mobile and Frontend</h3>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter icon" /></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase icon" /></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="48" alt="Firebase logo" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML icon" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS icon" /></a>
